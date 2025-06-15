@@ -4,4 +4,5 @@ by this tool you make make any shift jis have right to left support
 بكل حال هون البرنامج حتشوفوا تقدموا حتى يوصل ان شاء الله الى يمين من اليسار مثالي تماما 
 
 
-![2025-05-22 17 46 32](https://github.com/user-attachments/assets/552e3a07-788c-44cb-abb3-33f008472db2)
+
+![447226430-4095925d-f5a0-4191-8f71-5e9713fdf3d3](https://github.com/user-attachments/assets/085ba797-51fc-4dbb-afa5-ee5ca1d334e7)
